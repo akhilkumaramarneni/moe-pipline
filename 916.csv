@@ -1,0 +1,996 @@
+1430,2022-08-08 11:00:00,81,Detector Off,38
+1430,2022-08-08 11:00:00,81,Detector Off,42
+1430,2022-08-08 11:00:00,82,Detector On,45
+1430,2022-08-08 11:00:00,81,Detector Off,45
+1430,2022-08-08 11:00:01,4,Phase Gap Out,2
+1430,2022-08-08 11:00:02,31,Barrier Termination,1
+1430,2022-08-08 11:00:02,7,Phase Green Termination,2
+1430,2022-08-08 11:00:02,8,Phase Begin Yellow Clearance,2
+1430,2022-08-08 11:00:02,4,Phase Gap Out,6
+1430,2022-08-08 11:00:02,7,Phase Green Termination,6
+1430,2022-08-08 11:00:02,8,Phase Begin Yellow Clearance,6
+1430,2022-08-08 11:00:02,63,Overlap Begin Yellow,3
+1430,2022-08-08 11:00:03,82,Detector On,45
+1430,2022-08-08 11:00:03,81,Detector Off,45
+1430,2022-08-08 11:00:07,82,Detector On,37
+1430,2022-08-08 11:00:07,9,Phase End Yellow Clearance,2
+1430,2022-08-08 11:00:07,10,Phase Begin Red Clearance,2
+1430,2022-08-08 11:00:07,9,Phase End Yellow Clearance,6
+1430,2022-08-08 11:00:07,10,Phase Begin Red Clearance,6
+1430,2022-08-08 11:00:07,64,Overlap Begin Red Clearance,3
+1430,2022-08-08 11:00:07,46,Phase Omit On,2
+1430,2022-08-08 11:00:07,43,Phase Call Registered,6
+1430,2022-08-08 11:00:07,46,Phase Omit On,6
+1430,2022-08-08 11:00:09,12,Phase Inactive,2
+1430,2022-08-08 11:00:09,11,Phase End Red Clearance,2
+1430,2022-08-08 11:00:09,0,Phase On,4
+1430,2022-08-08 11:00:09,2,Phase Check,4
+1430,2022-08-08 11:00:09,1,Phase Begin Green,4
+1430,2022-08-08 11:00:09,12,Phase Inactive,6
+1430,2022-08-08 11:00:09,11,Phase End Red Clearance,6
+1430,2022-08-08 11:00:09,0,Phase On,8
+1430,2022-08-08 11:00:09,2,Phase Check,8
+1430,2022-08-08 11:00:09,1,Phase Begin Green,8
+1430,2022-08-08 11:00:09,61,Overlap Begin Green,1
+1430,2022-08-08 11:00:09,61,Overlap Begin Green,2
+1430,2022-08-08 11:00:09,65,Overlap Off (Inactive With Red Indication),3
+1430,2022-08-08 11:00:09,44,Phase Call Dropped,4
+1430,2022-08-08 11:00:09,44,Phase Call Dropped,8
+1430,2022-08-08 11:00:09,47,Phase Omit Off,2
+1430,2022-08-08 11:00:09,47,Phase Omit Off,6
+1430,2022-08-08 11:00:09,82,Detector On,46
+1430,2022-08-08 11:00:09,81,Detector Off,46
+1430,2022-08-08 11:00:09,82,Detector On,41
+1430,2022-08-08 11:00:13,82,Detector On,57
+1430,2022-08-08 11:00:13,81,Detector Off,53
+1430,2022-08-08 11:00:14,82,Detector On,25
+1430,2022-08-08 11:00:14,3,Phase Min Complete,8
+1430,2022-08-08 11:00:14,81,Detector Off,57
+1430,2022-08-08 11:00:16,82,Detector On,14
+1430,2022-08-08 11:00:16,81,Detector Off,25
+1430,2022-08-08 11:00:16,81,Detector Off,14
+1430,2022-08-08 11:00:16,82,Detector On,25
+1430,2022-08-08 11:00:16,82,Detector On,38
+1430,2022-08-08 11:00:17,3,Phase Min Complete,4
+1430,2022-08-08 11:00:17,82,Detector On,52
+1430,2022-08-08 11:00:17,81,Detector Off,25
+1430,2022-08-08 11:00:18,4,Phase Gap Out,8
+1430,2022-08-08 11:00:18,82,Detector On,25
+1430,2022-08-08 11:00:18,81,Detector Off,52
+1430,2022-08-08 11:00:19,81,Detector Off,21
+1430,2022-08-08 11:00:19,81,Detector Off,25
+1430,2022-08-08 11:00:20,82,Detector On,42
+1430,2022-08-08 11:00:20,82,Detector On,52
+1430,2022-08-08 11:00:21,81,Detector Off,52
+1430,2022-08-08 11:00:21,82,Detector On,46
+1430,2022-08-08 11:00:21,82,Detector On,49
+1430,2022-08-08 11:00:21,81,Detector Off,46
+1430,2022-08-08 11:00:22,82,Detector On,13
+1430,2022-08-08 11:00:22,81,Detector Off,13
+1430,2022-08-08 11:00:22,82,Detector On,14
+1430,2022-08-08 11:00:22,81,Detector Off,14
+1430,2022-08-08 11:00:23,82,Detector On,6
+1430,2022-08-08 11:00:23,82,Detector On,51
+1430,2022-08-08 11:00:23,43,Phase Call Registered,2
+1430,2022-08-08 11:00:24,82,Detector On,13
+1430,2022-08-08 11:00:24,81,Detector Off,49
+1430,2022-08-08 11:00:24,81,Detector Off,13
+1430,2022-08-08 11:00:25,81,Detector Off,51
+1430,2022-08-08 11:00:26,31,Barrier Termination,2
+1430,2022-08-08 11:00:26,4,Phase Gap Out,4
+1430,2022-08-08 11:00:26,7,Phase Green Termination,4
+1430,2022-08-08 11:00:26,8,Phase Begin Yellow Clearance,4
+1430,2022-08-08 11:00:26,7,Phase Green Termination,8
+1430,2022-08-08 11:00:26,8,Phase Begin Yellow Clearance,8
+1430,2022-08-08 11:00:26,63,Overlap Begin Yellow,1
+1430,2022-08-08 11:00:26,63,Overlap Begin Yellow,2
+1430,2022-08-08 11:00:27,82,Detector On,14
+1430,2022-08-08 11:00:27,82,Detector On,46
+1430,2022-08-08 11:00:28,81,Detector Off,14
+1430,2022-08-08 11:00:28,81,Detector Off,46
+1430,2022-08-08 11:00:30,9,Phase End Yellow Clearance,4
+1430,2022-08-08 11:00:30,10,Phase Begin Red Clearance,4
+1430,2022-08-08 11:00:30,9,Phase End Yellow Clearance,8
+1430,2022-08-08 11:00:30,10,Phase Begin Red Clearance,8
+1430,2022-08-08 11:00:30,64,Overlap Begin Red Clearance,1
+1430,2022-08-08 11:00:30,64,Overlap Begin Red Clearance,2
+1430,2022-08-08 11:00:30,46,Phase Omit On,4
+1430,2022-08-08 11:00:30,46,Phase Omit On,8
+1430,2022-08-08 11:00:30,82,Detector On,5
+1430,2022-08-08 11:00:31,82,Detector On,46
+1430,2022-08-08 11:00:31,81,Detector Off,46
+1430,2022-08-08 11:00:32,0,Phase On,2
+1430,2022-08-08 11:00:32,1,Phase Begin Green,2
+1430,2022-08-08 11:00:32,12,Phase Inactive,4
+1430,2022-08-08 11:00:32,11,Phase End Red Clearance,4
+1430,2022-08-08 11:00:32,0,Phase On,6
+1430,2022-08-08 11:00:32,1,Phase Begin Green,6
+1430,2022-08-08 11:00:32,12,Phase Inactive,8
+1430,2022-08-08 11:00:32,11,Phase End Red Clearance,8
+1430,2022-08-08 11:00:32,65,Overlap Off (Inactive With Red Indication),1
+1430,2022-08-08 11:00:32,65,Overlap Off (Inactive With Red Indication),2
+1430,2022-08-08 11:00:32,61,Overlap Begin Green,3
+1430,2022-08-08 11:00:32,44,Phase Call Dropped,2
+1430,2022-08-08 11:00:32,44,Phase Call Dropped,6
+1430,2022-08-08 11:00:32,47,Phase Omit Off,4
+1430,2022-08-08 11:00:32,47,Phase Omit Off,8
+1430,2022-08-08 11:00:33,82,Detector On,21
+1430,2022-08-08 11:00:33,2,Phase Check,2
+1430,2022-08-08 11:00:33,2,Phase Check,6
+1430,2022-08-08 11:00:33,43,Phase Call Registered,4
+1430,2022-08-08 11:00:33,82,Detector On,9
+1430,2022-08-08 11:00:37,81,Detector Off,41
+1430,2022-08-08 11:00:38,81,Detector Off,42
+1430,2022-08-08 11:00:38,82,Detector On,46
+1430,2022-08-08 11:00:38,81,Detector Off,5
+1430,2022-08-08 11:00:39,81,Detector Off,46
+1430,2022-08-08 11:00:39,82,Detector On,42
+1430,2022-08-08 11:00:39,82,Detector On,10
+1430,2022-08-08 11:00:39,81,Detector Off,9
+1430,2022-08-08 11:00:40,82,Detector On,41
+1430,2022-08-08 11:00:40,81,Detector Off,42
+1430,2022-08-08 11:00:41,81,Detector Off,10
+1430,2022-08-08 11:00:41,82,Detector On,59
+1430,2022-08-08 11:00:41,81,Detector Off,41
+1430,2022-08-08 11:00:42,82,Detector On,10
+1430,2022-08-08 11:00:42,3,Phase Min Complete,2
+1430,2022-08-08 11:00:42,3,Phase Min Complete,6
+1430,2022-08-08 11:00:42,82,Detector On,42
+1430,2022-08-08 11:00:42,82,Detector On,41
+1430,2022-08-08 11:00:42,82,Detector On,53
+1430,2022-08-08 11:00:42,43,Phase Call Registered,8
+1430,2022-08-08 11:00:42,82,Detector On,46
+1430,2022-08-08 11:00:43,81,Detector Off,6
+1430,2022-08-08 11:00:43,81,Detector Off,46
+1430,2022-08-08 11:00:43,81,Detector Off,10
+1430,2022-08-08 11:00:43,81,Detector Off,42
+1430,2022-08-08 11:00:43,81,Detector Off,59
+1430,2022-08-08 11:00:43,82,Detector On,45
+1430,2022-08-08 11:00:44,81,Detector Off,37
+1430,2022-08-08 11:00:44,82,Detector On,42
+1430,2022-08-08 11:00:44,81,Detector Off,41
+1430,2022-08-08 11:00:44,81,Detector Off,53
+1430,2022-08-08 11:00:44,44,Phase Call Dropped,8
+1430,2022-08-08 11:00:45,81,Detector Off,38
+1430,2022-08-08 11:00:45,81,Detector Off,45
+1430,2022-08-08 11:00:45,4,Phase Gap Out,2
+1430,2022-08-08 11:00:45,81,Detector Off,42
+1430,2022-08-08 11:00:46,82,Detector On,38
+1430,2022-08-08 11:00:47,82,Detector On,52
+1430,2022-08-08 11:00:48,82,Detector On,42
+1430,2022-08-08 11:00:48,82,Detector On,46
+1430,2022-08-08 11:00:48,81,Detector Off,38
+1430,2022-08-08 11:00:48,81,Detector Off,46
+1430,2022-08-08 11:00:48,81,Detector Off,42
+1430,2022-08-08 11:00:48,82,Detector On,45
+1430,2022-08-08 11:00:49,81,Detector Off,45
+1430,2022-08-08 11:00:49,82,Detector On,49
+1430,2022-08-08 11:00:49,81,Detector Off,52
+1430,2022-08-08 11:00:50,31,Barrier Termination,1
+1430,2022-08-08 11:00:50,7,Phase Green Termination,2
+1430,2022-08-08 11:00:50,8,Phase Begin Yellow Clearance,2
+1430,2022-08-08 11:00:50,4,Phase Gap Out,6
+1430,2022-08-08 11:00:50,7,Phase Green Termination,6
+1430,2022-08-08 11:00:50,8,Phase Begin Yellow Clearance,6
+1430,2022-08-08 11:00:50,63,Overlap Begin Yellow,3
+1430,2022-08-08 11:00:53,82,Detector On,38
+1430,2022-08-08 11:00:53,43,Phase Call Registered,6
+1430,2022-08-08 11:00:53,82,Detector On,51
+1430,2022-08-08 11:00:53,82,Detector On,37
+1430,2022-08-08 11:00:53,82,Detector On,42
+1430,2022-08-08 11:00:54,81,Detector Off,38
+1430,2022-08-08 11:00:54,81,Detector Off,42
+1430,2022-08-08 11:00:54,82,Detector On,41
+1430,2022-08-08 11:00:54,81,Detector Off,37
+1430,2022-08-08 11:00:54,4,Phase Gap Out,6
+1430,2022-08-08 11:00:54,44,Phase Call Dropped,6
+1430,2022-08-08 11:00:54,81,Detector Off,41
+1430,2022-08-08 11:00:55,82,Detector On,45
+1430,2022-08-08 11:00:55,81,Detector Off,45
+1430,2022-08-08 11:00:55,9,Phase End Yellow Clearance,2
+1430,2022-08-08 11:00:55,10,Phase Begin Red Clearance,2
+1430,2022-08-08 11:00:55,9,Phase End Yellow Clearance,6
+1430,2022-08-08 11:00:55,10,Phase Begin Red Clearance,6
+1430,2022-08-08 11:00:55,64,Overlap Begin Red Clearance,3
+1430,2022-08-08 11:00:55,46,Phase Omit On,2
+1430,2022-08-08 11:00:55,46,Phase Omit On,6
+1430,2022-08-08 11:00:57,12,Phase Inactive,2
+1430,2022-08-08 11:00:57,11,Phase End Red Clearance,2
+1430,2022-08-08 11:00:57,0,Phase On,4
+1430,2022-08-08 11:00:57,1,Phase Begin Green,4
+1430,2022-08-08 11:00:57,12,Phase Inactive,6
+1430,2022-08-08 11:00:57,11,Phase End Red Clearance,6
+1430,2022-08-08 11:00:57,0,Phase On,8
+1430,2022-08-08 11:00:57,1,Phase Begin Green,8
+1430,2022-08-08 11:00:57,61,Overlap Begin Green,1
+1430,2022-08-08 11:00:57,61,Overlap Begin Green,2
+1430,2022-08-08 11:00:57,65,Overlap Off (Inactive With Red Indication),3
+1430,2022-08-08 11:00:57,44,Phase Call Dropped,4
+1430,2022-08-08 11:00:57,47,Phase Omit Off,2
+1430,2022-08-08 11:00:57,47,Phase Omit Off,6
+1430,2022-08-08 11:00:59,82,Detector On,38
+1430,2022-08-08 11:00:59,2,Phase Check,4
+1430,2022-08-08 11:00:59,2,Phase Check,8
+1430,2022-08-08 11:00:59,43,Phase Call Registered,6
+1430,2022-08-08 11:01:02,82,Detector On,37
+1430,2022-08-08 11:01:02,82,Detector On,46
+1430,2022-08-08 11:01:02,4,Phase Gap Out,8
+1430,2022-08-08 11:01:02,3,Phase Min Complete,8
+1430,2022-08-08 11:01:02,81,Detector Off,49
+1430,2022-08-08 11:01:03,81,Detector Off,46
+1430,2022-08-08 11:01:03,81,Detector Off,51
+1430,2022-08-08 11:01:03,82,Detector On,42
+1430,2022-08-08 11:01:05,82,Detector On,25
+1430,2022-08-08 11:01:05,82,Detector On,14
+1430,2022-08-08 11:01:05,82,Detector On,41
+1430,2022-08-08 11:01:05,3,Phase Min Complete,4
+1430,2022-08-08 11:01:05,81,Detector Off,21
+1430,2022-08-08 11:01:06,81,Detector Off,14
+1430,2022-08-08 11:01:06,82,Detector On,21
+1430,2022-08-08 11:01:09,82,Detector On,14
+1430,2022-08-08 11:01:09,81,Detector Off,21
+1430,2022-08-08 11:01:10,81,Detector Off,14
+1430,2022-08-08 11:01:11,82,Detector On,13
+1430,2022-08-08 11:01:11,81,Detector Off,13
+1430,2022-08-08 11:01:12,31,Barrier Termination,2
+1430,2022-08-08 11:01:12,82,Detector On,45
+1430,2022-08-08 11:01:12,4,Phase Gap Out,4
+1430,2022-08-08 11:01:12,7,Phase Green Termination,4
+1430,2022-08-08 11:01:12,8,Phase Begin Yellow Clearance,4
+1430,2022-08-08 11:01:12,7,Phase Green Termination,8
+1430,2022-08-08 11:01:12,8,Phase Begin Yellow Clearance,8
+1430,2022-08-08 11:01:12,63,Overlap Begin Yellow,1
+1430,2022-08-08 11:01:12,63,Overlap Begin Yellow,2
+1430,2022-08-08 11:01:13,82,Detector On,21
+1430,2022-08-08 11:01:13,43,Phase Call Registered,4
+1430,2022-08-08 11:01:13,81,Detector Off,21
+1430,2022-08-08 11:01:13,4,Phase Gap Out,4
+1430,2022-08-08 11:01:13,44,Phase Call Dropped,4
+1430,2022-08-08 11:01:13,81,Detector Off,25
+1430,2022-08-08 11:01:13,81,Detector Off,45
+1430,2022-08-08 11:01:14,82,Detector On,14
+1430,2022-08-08 11:01:14,82,Detector On,52
+1430,2022-08-08 11:01:14,81,Detector Off,14
+1430,2022-08-08 11:01:15,81,Detector Off,52
+1430,2022-08-08 11:01:15,4,Phase Gap Out,4
+1430,2022-08-08 11:01:15,82,Detector On,49
+1430,2022-08-08 11:01:15,43,Phase Call Registered,4
+1430,2022-08-08 11:01:15,9,Phase End Yellow Clearance,4
+1430,2022-08-08 11:01:15,10,Phase Begin Red Clearance,4
+1430,2022-08-08 11:01:15,9,Phase End Yellow Clearance,8
+1430,2022-08-08 11:01:15,10,Phase Begin Red Clearance,8
+1430,2022-08-08 11:01:15,64,Overlap Begin Red Clearance,1
+1430,2022-08-08 11:01:15,64,Overlap Begin Red Clearance,2
+1430,2022-08-08 11:01:15,46,Phase Omit On,4
+1430,2022-08-08 11:01:15,46,Phase Omit On,8
+1430,2022-08-08 11:01:16,82,Detector On,51
+1430,2022-08-08 11:01:17,81,Detector Off,49
+1430,2022-08-08 11:01:17,4,Phase Gap Out,4
+1430,2022-08-08 11:01:17,44,Phase Call Dropped,4
+1430,2022-08-08 11:01:17,81,Detector Off,51
+1430,2022-08-08 11:01:17,0,Phase On,2
+1430,2022-08-08 11:01:17,1,Phase Begin Green,2
+1430,2022-08-08 11:01:17,12,Phase Inactive,4
+1430,2022-08-08 11:01:17,11,Phase End Red Clearance,4
+1430,2022-08-08 11:01:17,0,Phase On,6
+1430,2022-08-08 11:01:17,1,Phase Begin Green,6
+1430,2022-08-08 11:01:17,12,Phase Inactive,8
+1430,2022-08-08 11:01:17,11,Phase End Red Clearance,8
+1430,2022-08-08 11:01:17,65,Overlap Off (Inactive With Red Indication),1
+1430,2022-08-08 11:01:17,65,Overlap Off (Inactive With Red Indication),2
+1430,2022-08-08 11:01:17,61,Overlap Begin Green,3
+1430,2022-08-08 11:01:17,44,Phase Call Dropped,6
+1430,2022-08-08 11:01:17,47,Phase Omit Off,4
+1430,2022-08-08 11:01:17,47,Phase Omit Off,8
+1430,2022-08-08 11:01:19,82,Detector On,6
+1430,2022-08-08 11:01:19,82,Detector On,14
+1430,2022-08-08 11:01:20,81,Detector Off,14
+1430,2022-08-08 11:01:20,81,Detector Off,37
+1430,2022-08-08 11:01:20,82,Detector On,5
+1430,2022-08-08 11:01:21,81,Detector Off,41
+1430,2022-08-08 11:01:22,82,Detector On,10
+1430,2022-08-08 11:01:22,82,Detector On,13
+1430,2022-08-08 11:01:22,82,Detector On,37
+1430,2022-08-08 11:01:23,82,Detector On,14
+1430,2022-08-08 11:01:23,81,Detector Off,13
+1430,2022-08-08 11:01:23,82,Detector On,9
+1430,2022-08-08 11:01:23,82,Detector On,41
+1430,2022-08-08 11:01:23,81,Detector Off,6
+1430,2022-08-08 11:01:23,81,Detector Off,10
+1430,2022-08-08 11:01:24,81,Detector Off,9
+1430,2022-08-08 11:01:24,81,Detector Off,37
+1430,2022-08-08 11:01:24,81,Detector Off,41
+1430,2022-08-08 11:01:24,81,Detector Off,42
+1430,2022-08-08 11:01:24,82,Detector On,9
+1430,2022-08-08 11:01:24,81,Detector Off,5
+1430,2022-08-08 11:01:24,81,Detector Off,14
+1430,2022-08-08 11:01:25,81,Detector Off,9
+1430,2022-08-08 11:01:25,82,Detector On,6
+1430,2022-08-08 11:01:25,82,Detector On,37
+1430,2022-08-08 11:01:26,82,Detector On,42
+1430,2022-08-08 11:01:26,82,Detector On,46
+1430,2022-08-08 11:01:27,81,Detector Off,38
+1430,2022-08-08 11:01:27,82,Detector On,10
+1430,2022-08-08 11:01:27,81,Detector Off,46
+1430,2022-08-08 11:01:27,81,Detector Off,42
+1430,2022-08-08 11:01:27,82,Detector On,38
+1430,2022-08-08 11:01:27,82,Detector On,21
+1430,2022-08-08 11:01:27,2,Phase Check,2
+1430,2022-08-08 11:01:27,3,Phase Min Complete,2
+1430,2022-08-08 11:01:27,2,Phase Check,6
+1430,2022-08-08 11:01:27,3,Phase Min Complete,6
+1430,2022-08-08 11:01:27,43,Phase Call Registered,4
+1430,2022-08-08 11:01:28,82,Detector On,41
+1430,2022-08-08 11:01:28,82,Detector On,7
+1430,2022-08-08 11:01:29,81,Detector Off,7
+1430,2022-08-08 11:01:29,82,Detector On,42
+1430,2022-08-08 11:01:29,81,Detector Off,10
+1430,2022-08-08 11:01:29,82,Detector On,10
+1430,2022-08-08 11:01:30,81,Detector Off,6
+1430,2022-08-08 11:01:30,81,Detector Off,38
+1430,2022-08-08 11:01:30,82,Detector On,13
+1430,2022-08-08 11:01:30,81,Detector Off,42
+1430,2022-08-08 11:01:30,81,Detector Off,10
+1430,2022-08-08 11:01:30,82,Detector On,45
+1430,2022-08-08 11:01:30,81,Detector Off,13
+1430,2022-08-08 11:01:31,82,Detector On,6
+1430,2022-08-08 11:01:31,81,Detector Off,45
+1430,2022-08-08 11:01:31,81,Detector Off,37
+1430,2022-08-08 11:01:31,82,Detector On,25
+1430,2022-08-08 11:01:32,82,Detector On,5
+1430,2022-08-08 11:01:32,82,Detector On,10
+1430,2022-08-08 11:01:32,82,Detector On,38
+1430,2022-08-08 11:01:32,81,Detector Off,6
+1430,2022-08-08 11:01:33,81,Detector Off,10
+1430,2022-08-08 11:01:33,82,Detector On,42
+1430,2022-08-08 11:01:33,82,Detector On,9
+1430,2022-08-08 11:01:33,81,Detector Off,38
+1430,2022-08-08 11:01:33,82,Detector On,6
+1430,2022-08-08 11:01:33,81,Detector Off,42
+1430,2022-08-08 11:01:33,81,Detector Off,25
+1430,2022-08-08 11:01:33,82,Detector On,52
+1430,2022-08-08 11:01:34,81,Detector Off,5
+1430,2022-08-08 11:01:34,82,Detector On,33
+1430,2022-08-08 11:01:34,43,Phase Call Registered,5
+1430,2022-08-08 11:01:34,81,Detector Off,9
+1430,2022-08-08 11:01:34,81,Detector Off,52
+1430,2022-08-08 11:01:34,82,Detector On,10
+1430,2022-08-08 11:01:35,81,Detector Off,6
+1430,2022-08-08 11:01:35,81,Detector Off,10
+1430,2022-08-08 11:01:35,82,Detector On,49
+1430,2022-08-08 11:01:35,82,Detector On,13
+1430,2022-08-08 11:01:35,82,Detector On,35
+1430,2022-08-08 11:01:35,81,Detector Off,49
+1430,2022-08-08 11:01:35,4,Phase Gap Out,6
+1430,2022-08-08 11:01:36,82,Detector On,37
+1430,2022-08-08 11:01:36,82,Detector On,6
+1430,2022-08-08 11:01:36,81,Detector Off,33
+1430,2022-08-08 11:01:36,44,Phase Call Dropped,5
+1430,2022-08-08 11:01:36,81,Detector Off,13
+1430,2022-08-08 11:01:36,81,Detector Off,37
+1430,2022-08-08 11:01:37,81,Detector Off,35
+1430,2022-08-08 11:01:37,81,Detector Off,41
+1430,2022-08-08 11:01:37,82,Detector On,45
+1430,2022-08-08 11:01:37,82,Detector On,33
+1430,2022-08-08 11:01:37,43,Phase Call Registered,5
+1430,2022-08-08 11:01:37,81,Detector Off,45
+1430,2022-08-08 11:01:37,82,Detector On,10
+1430,2022-08-08 11:01:38,81,Detector Off,6
+1430,2022-08-08 11:01:39,82,Detector On,59
+1430,2022-08-08 11:01:39,81,Detector Off,10
+1430,2022-08-08 11:01:39,82,Detector On,35
+1430,2022-08-08 11:01:39,4,Phase Gap Out,6
+1430,2022-08-08 11:01:39,82,Detector On,6
+1430,2022-08-08 11:01:40,81,Detector Off,33
+1430,2022-08-08 11:01:40,44,Phase Call Dropped,5
+1430,2022-08-08 11:01:40,82,Detector On,10
+1430,2022-08-08 11:01:40,81,Detector Off,35
+1430,2022-08-08 11:01:40,81,Detector Off,6
+1430,2022-08-08 11:01:40,82,Detector On,53
+1430,2022-08-08 11:01:40,81,Detector Off,59
+1430,2022-08-08 11:01:40,43,Phase Call Registered,8
+1430,2022-08-08 11:01:40,81,Detector Off,10
+1430,2022-08-08 11:01:41,82,Detector On,33
+1430,2022-08-08 11:01:41,43,Phase Call Registered,5
+1430,2022-08-08 11:01:42,82,Detector On,37
+1430,2022-08-08 11:01:42,82,Detector On,59
+1430,2022-08-08 11:01:42,4,Phase Gap Out,2
+1430,2022-08-08 11:01:43,82,Detector On,41
+1430,2022-08-08 11:01:43,81,Detector Off,37
+1430,2022-08-08 11:01:43,81,Detector Off,41
+1430,2022-08-08 11:01:43,82,Detector On,35
+1430,2022-08-08 11:01:44,82,Detector On,5
+1430,2022-08-08 11:01:44,81,Detector Off,59
+1430,2022-08-08 11:01:44,81,Detector Off,33
+1430,2022-08-08 11:01:44,44,Phase Call Dropped,5
+1430,2022-08-08 11:01:44,82,Detector On,9
+1430,2022-08-08 11:01:45,81,Detector Off,5
+1430,2022-08-08 11:01:45,81,Detector Off,35
+1430,2022-08-08 11:01:45,82,Detector On,46
+1430,2022-08-08 11:01:45,81,Detector Off,9
+1430,2022-08-08 11:01:45,81,Detector Off,46
+1430,2022-08-08 11:01:45,82,Detector On,45
+1430,2022-08-08 11:01:45,4,Phase Gap Out,6
+1430,2022-08-08 11:01:46,81,Detector Off,45
+1430,2022-08-08 11:01:46,82,Detector On,37
+1430,2022-08-08 11:01:47,4,Phase Gap Out,2
+1430,2022-08-08 11:01:47,82,Detector On,41
+1430,2022-08-08 11:01:47,81,Detector Off,37
+1430,2022-08-08 11:01:47,82,Detector On,59
+1430,2022-08-08 11:01:47,81,Detector Off,41
+1430,2022-08-08 11:01:48,82,Detector On,46
+1430,2022-08-08 11:01:48,81,Detector Off,46
+1430,2022-08-08 11:01:49,82,Detector On,45
+1430,2022-08-08 11:01:50,31,Barrier Termination,1
+1430,2022-08-08 11:01:50,7,Phase Green Termination,2
+1430,2022-08-08 11:01:50,8,Phase Begin Yellow Clearance,2
+1430,2022-08-08 11:01:50,4,Phase Gap Out,6
+1430,2022-08-08 11:01:50,7,Phase Green Termination,6
+1430,2022-08-08 11:01:50,8,Phase Begin Yellow Clearance,6
+1430,2022-08-08 11:01:50,63,Overlap Begin Yellow,3
+1430,2022-08-08 11:01:50,81,Detector Off,45
+1430,2022-08-08 11:01:50,82,Detector On,37
+1430,2022-08-08 11:01:50,43,Phase Call Registered,6
+1430,2022-08-08 11:01:51,82,Detector On,38
+1430,2022-08-08 11:01:51,82,Detector On,41
+1430,2022-08-08 11:01:51,81,Detector Off,37
+1430,2022-08-08 11:01:52,81,Detector Off,41
+1430,2022-08-08 11:01:52,82,Detector On,42
+1430,2022-08-08 11:01:52,82,Detector On,46
+1430,2022-08-08 11:01:52,81,Detector Off,38
+1430,2022-08-08 11:01:52,81,Detector Off,42
+1430,2022-08-08 11:01:52,4,Phase Gap Out,6
+1430,2022-08-08 11:01:52,44,Phase Call Dropped,6
+1430,2022-08-08 11:01:52,81,Detector Off,46
+1430,2022-08-08 11:01:54,82,Detector On,38
+1430,2022-08-08 11:01:54,43,Phase Call Registered,6
+1430,2022-08-08 11:01:54,82,Detector On,45
+1430,2022-08-08 11:01:54,81,Detector Off,45
+1430,2022-08-08 11:01:54,82,Detector On,42
+1430,2022-08-08 11:01:54,9,Phase End Yellow Clearance,2
+1430,2022-08-08 11:01:54,10,Phase Begin Red Clearance,2
+1430,2022-08-08 11:01:54,9,Phase End Yellow Clearance,6
+1430,2022-08-08 11:01:54,10,Phase Begin Red Clearance,6
+1430,2022-08-08 11:01:54,64,Overlap Begin Red Clearance,3
+1430,2022-08-08 11:01:54,46,Phase Omit On,2
+1430,2022-08-08 11:01:54,46,Phase Omit On,6
+1430,2022-08-08 11:01:54,81,Detector Off,38
+1430,2022-08-08 11:01:54,4,Phase Gap Out,6
+1430,2022-08-08 11:01:54,44,Phase Call Dropped,6
+1430,2022-08-08 11:01:55,81,Detector Off,42
+1430,2022-08-08 11:01:55,82,Detector On,37
+1430,2022-08-08 11:01:55,43,Phase Call Registered,6
+1430,2022-08-08 11:01:55,82,Detector On,14
+1430,2022-08-08 11:01:56,82,Detector On,46
+1430,2022-08-08 11:01:56,81,Detector Off,14
+1430,2022-08-08 11:01:56,81,Detector Off,37
+1430,2022-08-08 11:01:56,82,Detector On,41
+1430,2022-08-08 11:01:56,4,Phase Gap Out,6
+1430,2022-08-08 11:01:56,44,Phase Call Dropped,6
+1430,2022-08-08 11:01:56,81,Detector Off,46
+1430,2022-08-08 11:01:56,81,Detector Off,41
+1430,2022-08-08 11:01:56,12,Phase Inactive,2
+1430,2022-08-08 11:01:56,11,Phase End Red Clearance,2
+1430,2022-08-08 11:01:56,0,Phase On,4
+1430,2022-08-08 11:01:56,1,Phase Begin Green,4
+1430,2022-08-08 11:01:56,12,Phase Inactive,6
+1430,2022-08-08 11:01:56,11,Phase End Red Clearance,6
+1430,2022-08-08 11:01:56,0,Phase On,8
+1430,2022-08-08 11:01:56,1,Phase Begin Green,8
+1430,2022-08-08 11:01:56,61,Overlap Begin Green,1
+1430,2022-08-08 11:01:56,61,Overlap Begin Green,2
+1430,2022-08-08 11:01:56,65,Overlap Off (Inactive With Red Indication),3
+1430,2022-08-08 11:01:56,44,Phase Call Dropped,4
+1430,2022-08-08 11:01:56,44,Phase Call Dropped,8
+1430,2022-08-08 11:01:56,47,Phase Omit Off,2
+1430,2022-08-08 11:01:56,47,Phase Omit Off,6
+1430,2022-08-08 11:01:57,82,Detector On,45
+1430,2022-08-08 11:01:58,81,Detector Off,45
+1430,2022-08-08 11:01:58,82,Detector On,37
+1430,2022-08-08 11:01:58,2,Phase Check,4
+1430,2022-08-08 11:01:58,2,Phase Check,8
+1430,2022-08-08 11:01:58,43,Phase Call Registered,6
+1430,2022-08-08 11:01:59,82,Detector On,38
+1430,2022-08-08 11:02:00,82,Detector On,14
+1430,2022-08-08 11:02:01,82,Detector On,57
+1430,2022-08-08 11:02:01,82,Detector On,25
+1430,2022-08-08 11:02:01,82,Detector On,41
+1430,2022-08-08 11:02:01,3,Phase Min Complete,8
+916_Signal Controller_US1,2022-08-08 11:00:00,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:00:00,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:00,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:00:00,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:00:01,4,Phase Gap Out,2
+916_Signal Controller_US1,2022-08-08 11:00:02,31,Barrier Termination,1
+916_Signal Controller_US1,2022-08-08 11:00:02,7,Phase Green Termination,2
+916_Signal Controller_US1,2022-08-08 11:00:02,8,Phase Begin Yellow Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:02,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:00:02,7,Phase Green Termination,6
+916_Signal Controller_US1,2022-08-08 11:00:02,8,Phase Begin Yellow Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:02,63,Overlap Begin Yellow,3
+916_Signal Controller_US1,2022-08-08 11:00:03,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:00:03,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:00:07,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:00:07,9,Phase End Yellow Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:07,10,Phase Begin Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:07,9,Phase End Yellow Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:07,10,Phase Begin Red Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:07,64,Overlap Begin Red Clearance,3
+916_Signal Controller_US1,2022-08-08 11:00:07,46,Phase Omit On,2
+916_Signal Controller_US1,2022-08-08 11:00:07,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:00:07,46,Phase Omit On,6
+916_Signal Controller_US1,2022-08-08 11:00:09,12,Phase Inactive,2
+916_Signal Controller_US1,2022-08-08 11:00:09,11,Phase End Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:09,0,Phase On,4
+916_Signal Controller_US1,2022-08-08 11:00:09,2,Phase Check,4
+916_Signal Controller_US1,2022-08-08 11:00:09,1,Phase Begin Green,4
+916_Signal Controller_US1,2022-08-08 11:00:09,12,Phase Inactive,6
+916_Signal Controller_US1,2022-08-08 11:00:09,11,Phase End Red Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:09,0,Phase On,8
+916_Signal Controller_US1,2022-08-08 11:00:09,2,Phase Check,8
+916_Signal Controller_US1,2022-08-08 11:00:09,1,Phase Begin Green,8
+916_Signal Controller_US1,2022-08-08 11:00:09,61,Overlap Begin Green,1
+916_Signal Controller_US1,2022-08-08 11:00:09,61,Overlap Begin Green,2
+916_Signal Controller_US1,2022-08-08 11:00:09,65,Overlap Off (Inactive With Red Indication),3
+916_Signal Controller_US1,2022-08-08 11:00:09,44,Phase Call Dropped,4
+916_Signal Controller_US1,2022-08-08 11:00:09,44,Phase Call Dropped,8
+916_Signal Controller_US1,2022-08-08 11:00:09,47,Phase Omit Off,2
+916_Signal Controller_US1,2022-08-08 11:00:09,47,Phase Omit Off,6
+916_Signal Controller_US1,2022-08-08 11:00:09,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:09,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:09,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:00:13,82,Detector On,57
+916_Signal Controller_US1,2022-08-08 11:00:13,81,Detector Off,53
+916_Signal Controller_US1,2022-08-08 11:00:14,82,Detector On,25
+916_Signal Controller_US1,2022-08-08 11:00:14,3,Phase Min Complete,8
+916_Signal Controller_US1,2022-08-08 11:00:14,81,Detector Off,57
+916_Signal Controller_US1,2022-08-08 11:00:16,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:00:16,81,Detector Off,25
+916_Signal Controller_US1,2022-08-08 11:00:16,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:00:16,82,Detector On,25
+916_Signal Controller_US1,2022-08-08 11:00:16,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:00:17,3,Phase Min Complete,4
+916_Signal Controller_US1,2022-08-08 11:00:17,82,Detector On,52
+916_Signal Controller_US1,2022-08-08 11:00:17,81,Detector Off,25
+916_Signal Controller_US1,2022-08-08 11:00:18,4,Phase Gap Out,8
+916_Signal Controller_US1,2022-08-08 11:00:18,82,Detector On,25
+916_Signal Controller_US1,2022-08-08 11:00:18,81,Detector Off,52
+916_Signal Controller_US1,2022-08-08 11:00:19,81,Detector Off,21
+916_Signal Controller_US1,2022-08-08 11:00:19,81,Detector Off,25
+916_Signal Controller_US1,2022-08-08 11:00:20,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:00:20,82,Detector On,52
+916_Signal Controller_US1,2022-08-08 11:00:21,81,Detector Off,52
+916_Signal Controller_US1,2022-08-08 11:00:21,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:21,82,Detector On,49
+916_Signal Controller_US1,2022-08-08 11:00:21,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:22,82,Detector On,13
+916_Signal Controller_US1,2022-08-08 11:00:22,81,Detector Off,13
+916_Signal Controller_US1,2022-08-08 11:00:22,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:00:22,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:00:23,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:00:23,82,Detector On,51
+916_Signal Controller_US1,2022-08-08 11:00:23,43,Phase Call Registered,2
+916_Signal Controller_US1,2022-08-08 11:00:24,82,Detector On,13
+916_Signal Controller_US1,2022-08-08 11:00:24,81,Detector Off,49
+916_Signal Controller_US1,2022-08-08 11:00:24,81,Detector Off,13
+916_Signal Controller_US1,2022-08-08 11:00:25,81,Detector Off,51
+916_Signal Controller_US1,2022-08-08 11:00:26,31,Barrier Termination,2
+916_Signal Controller_US1,2022-08-08 11:00:26,4,Phase Gap Out,4
+916_Signal Controller_US1,2022-08-08 11:00:26,7,Phase Green Termination,4
+916_Signal Controller_US1,2022-08-08 11:00:26,8,Phase Begin Yellow Clearance,4
+916_Signal Controller_US1,2022-08-08 11:00:26,7,Phase Green Termination,8
+916_Signal Controller_US1,2022-08-08 11:00:26,8,Phase Begin Yellow Clearance,8
+916_Signal Controller_US1,2022-08-08 11:00:26,63,Overlap Begin Yellow,1
+916_Signal Controller_US1,2022-08-08 11:00:26,63,Overlap Begin Yellow,2
+916_Signal Controller_US1,2022-08-08 11:00:27,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:00:27,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:28,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:00:28,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:30,9,Phase End Yellow Clearance,4
+916_Signal Controller_US1,2022-08-08 11:00:30,10,Phase Begin Red Clearance,4
+916_Signal Controller_US1,2022-08-08 11:00:30,9,Phase End Yellow Clearance,8
+916_Signal Controller_US1,2022-08-08 11:00:30,10,Phase Begin Red Clearance,8
+916_Signal Controller_US1,2022-08-08 11:00:30,64,Overlap Begin Red Clearance,1
+916_Signal Controller_US1,2022-08-08 11:00:30,64,Overlap Begin Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:30,46,Phase Omit On,4
+916_Signal Controller_US1,2022-08-08 11:00:30,46,Phase Omit On,8
+916_Signal Controller_US1,2022-08-08 11:00:30,82,Detector On,5
+916_Signal Controller_US1,2022-08-08 11:00:31,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:31,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:32,0,Phase On,2
+916_Signal Controller_US1,2022-08-08 11:00:32,1,Phase Begin Green,2
+916_Signal Controller_US1,2022-08-08 11:00:32,12,Phase Inactive,4
+916_Signal Controller_US1,2022-08-08 11:00:32,11,Phase End Red Clearance,4
+916_Signal Controller_US1,2022-08-08 11:00:32,0,Phase On,6
+916_Signal Controller_US1,2022-08-08 11:00:32,1,Phase Begin Green,6
+916_Signal Controller_US1,2022-08-08 11:00:32,12,Phase Inactive,8
+916_Signal Controller_US1,2022-08-08 11:00:32,11,Phase End Red Clearance,8
+916_Signal Controller_US1,2022-08-08 11:00:32,65,Overlap Off (Inactive With Red Indication),1
+916_Signal Controller_US1,2022-08-08 11:00:32,65,Overlap Off (Inactive With Red Indication),2
+916_Signal Controller_US1,2022-08-08 11:00:32,61,Overlap Begin Green,3
+916_Signal Controller_US1,2022-08-08 11:00:32,44,Phase Call Dropped,2
+916_Signal Controller_US1,2022-08-08 11:00:32,44,Phase Call Dropped,6
+916_Signal Controller_US1,2022-08-08 11:00:32,47,Phase Omit Off,4
+916_Signal Controller_US1,2022-08-08 11:00:32,47,Phase Omit Off,8
+916_Signal Controller_US1,2022-08-08 11:00:33,82,Detector On,21
+916_Signal Controller_US1,2022-08-08 11:00:33,2,Phase Check,2
+916_Signal Controller_US1,2022-08-08 11:00:33,2,Phase Check,6
+916_Signal Controller_US1,2022-08-08 11:00:33,43,Phase Call Registered,4
+916_Signal Controller_US1,2022-08-08 11:00:33,82,Detector On,9
+916_Signal Controller_US1,2022-08-08 11:00:37,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:00:38,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:38,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:38,81,Detector Off,5
+916_Signal Controller_US1,2022-08-08 11:00:39,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:39,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:00:39,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:00:39,81,Detector Off,9
+916_Signal Controller_US1,2022-08-08 11:00:40,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:00:40,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:41,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:00:41,82,Detector On,59
+916_Signal Controller_US1,2022-08-08 11:00:41,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:00:42,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:00:42,3,Phase Min Complete,2
+916_Signal Controller_US1,2022-08-08 11:00:42,3,Phase Min Complete,6
+916_Signal Controller_US1,2022-08-08 11:00:42,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:00:42,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:00:42,82,Detector On,53
+916_Signal Controller_US1,2022-08-08 11:00:42,43,Phase Call Registered,8
+916_Signal Controller_US1,2022-08-08 11:00:42,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:43,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:00:43,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:43,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:00:43,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:43,81,Detector Off,59
+916_Signal Controller_US1,2022-08-08 11:00:43,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:00:44,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:00:44,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:00:44,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:00:44,81,Detector Off,53
+916_Signal Controller_US1,2022-08-08 11:00:44,44,Phase Call Dropped,8
+916_Signal Controller_US1,2022-08-08 11:00:45,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:00:45,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:00:45,4,Phase Gap Out,2
+916_Signal Controller_US1,2022-08-08 11:00:45,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:46,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:00:47,82,Detector On,52
+916_Signal Controller_US1,2022-08-08 11:00:48,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:00:48,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:00:48,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:00:48,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:00:48,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:48,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:00:49,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:00:49,82,Detector On,49
+916_Signal Controller_US1,2022-08-08 11:00:49,81,Detector Off,52
+916_Signal Controller_US1,2022-08-08 11:00:50,31,Barrier Termination,1
+916_Signal Controller_US1,2022-08-08 11:00:50,7,Phase Green Termination,2
+916_Signal Controller_US1,2022-08-08 11:00:50,8,Phase Begin Yellow Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:50,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:00:50,7,Phase Green Termination,6
+916_Signal Controller_US1,2022-08-08 11:00:50,8,Phase Begin Yellow Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:50,63,Overlap Begin Yellow,3
+916_Signal Controller_US1,2022-08-08 11:00:53,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:00:53,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:00:53,82,Detector On,51
+916_Signal Controller_US1,2022-08-08 11:00:53,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:00:53,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:00:54,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:00:54,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:00:54,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:00:54,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:00:54,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:00:54,44,Phase Call Dropped,6
+916_Signal Controller_US1,2022-08-08 11:00:54,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:00:55,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:00:55,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:00:55,9,Phase End Yellow Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:55,10,Phase Begin Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:55,9,Phase End Yellow Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:55,10,Phase Begin Red Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:55,64,Overlap Begin Red Clearance,3
+916_Signal Controller_US1,2022-08-08 11:00:55,46,Phase Omit On,2
+916_Signal Controller_US1,2022-08-08 11:00:55,46,Phase Omit On,6
+916_Signal Controller_US1,2022-08-08 11:00:57,12,Phase Inactive,2
+916_Signal Controller_US1,2022-08-08 11:00:57,11,Phase End Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:00:57,0,Phase On,4
+916_Signal Controller_US1,2022-08-08 11:00:57,1,Phase Begin Green,4
+916_Signal Controller_US1,2022-08-08 11:00:57,12,Phase Inactive,6
+916_Signal Controller_US1,2022-08-08 11:00:57,11,Phase End Red Clearance,6
+916_Signal Controller_US1,2022-08-08 11:00:57,0,Phase On,8
+916_Signal Controller_US1,2022-08-08 11:00:57,1,Phase Begin Green,8
+916_Signal Controller_US1,2022-08-08 11:00:57,61,Overlap Begin Green,1
+916_Signal Controller_US1,2022-08-08 11:00:57,61,Overlap Begin Green,2
+916_Signal Controller_US1,2022-08-08 11:00:57,65,Overlap Off (Inactive With Red Indication),3
+916_Signal Controller_US1,2022-08-08 11:00:57,44,Phase Call Dropped,4
+916_Signal Controller_US1,2022-08-08 11:00:57,47,Phase Omit Off,2
+916_Signal Controller_US1,2022-08-08 11:00:57,47,Phase Omit Off,6
+916_Signal Controller_US1,2022-08-08 11:00:59,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:00:59,2,Phase Check,4
+916_Signal Controller_US1,2022-08-08 11:00:59,2,Phase Check,8
+916_Signal Controller_US1,2022-08-08 11:00:59,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:01:02,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:02,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:01:02,4,Phase Gap Out,8
+916_Signal Controller_US1,2022-08-08 11:01:02,3,Phase Min Complete,8
+916_Signal Controller_US1,2022-08-08 11:01:02,81,Detector Off,49
+916_Signal Controller_US1,2022-08-08 11:01:03,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:01:03,81,Detector Off,51
+916_Signal Controller_US1,2022-08-08 11:01:03,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:01:05,82,Detector On,25
+916_Signal Controller_US1,2022-08-08 11:01:05,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:01:05,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:05,3,Phase Min Complete,4
+916_Signal Controller_US1,2022-08-08 11:01:05,81,Detector Off,21
+916_Signal Controller_US1,2022-08-08 11:01:06,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:01:06,82,Detector On,21
+916_Signal Controller_US1,2022-08-08 11:01:09,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:01:09,81,Detector Off,21
+916_Signal Controller_US1,2022-08-08 11:01:10,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:01:11,82,Detector On,13
+916_Signal Controller_US1,2022-08-08 11:01:11,81,Detector Off,13
+916_Signal Controller_US1,2022-08-08 11:01:12,31,Barrier Termination,2
+916_Signal Controller_US1,2022-08-08 11:01:12,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:12,4,Phase Gap Out,4
+916_Signal Controller_US1,2022-08-08 11:01:12,7,Phase Green Termination,4
+916_Signal Controller_US1,2022-08-08 11:01:12,8,Phase Begin Yellow Clearance,4
+916_Signal Controller_US1,2022-08-08 11:01:12,7,Phase Green Termination,8
+916_Signal Controller_US1,2022-08-08 11:01:12,8,Phase Begin Yellow Clearance,8
+916_Signal Controller_US1,2022-08-08 11:01:12,63,Overlap Begin Yellow,1
+916_Signal Controller_US1,2022-08-08 11:01:12,63,Overlap Begin Yellow,2
+916_Signal Controller_US1,2022-08-08 11:01:13,82,Detector On,21
+916_Signal Controller_US1,2022-08-08 11:01:13,43,Phase Call Registered,4
+916_Signal Controller_US1,2022-08-08 11:01:13,81,Detector Off,21
+916_Signal Controller_US1,2022-08-08 11:01:13,4,Phase Gap Out,4
+916_Signal Controller_US1,2022-08-08 11:01:13,44,Phase Call Dropped,4
+916_Signal Controller_US1,2022-08-08 11:01:13,81,Detector Off,25
+916_Signal Controller_US1,2022-08-08 11:01:13,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:14,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:01:14,82,Detector On,52
+916_Signal Controller_US1,2022-08-08 11:01:14,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:01:15,81,Detector Off,52
+916_Signal Controller_US1,2022-08-08 11:01:15,4,Phase Gap Out,4
+916_Signal Controller_US1,2022-08-08 11:01:15,82,Detector On,49
+916_Signal Controller_US1,2022-08-08 11:01:15,43,Phase Call Registered,4
+916_Signal Controller_US1,2022-08-08 11:01:15,9,Phase End Yellow Clearance,4
+916_Signal Controller_US1,2022-08-08 11:01:15,10,Phase Begin Red Clearance,4
+916_Signal Controller_US1,2022-08-08 11:01:15,9,Phase End Yellow Clearance,8
+916_Signal Controller_US1,2022-08-08 11:01:15,10,Phase Begin Red Clearance,8
+916_Signal Controller_US1,2022-08-08 11:01:15,64,Overlap Begin Red Clearance,1
+916_Signal Controller_US1,2022-08-08 11:01:15,64,Overlap Begin Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:01:15,46,Phase Omit On,4
+916_Signal Controller_US1,2022-08-08 11:01:15,46,Phase Omit On,8
+916_Signal Controller_US1,2022-08-08 11:01:16,82,Detector On,51
+916_Signal Controller_US1,2022-08-08 11:01:17,81,Detector Off,49
+916_Signal Controller_US1,2022-08-08 11:01:17,4,Phase Gap Out,4
+916_Signal Controller_US1,2022-08-08 11:01:17,44,Phase Call Dropped,4
+916_Signal Controller_US1,2022-08-08 11:01:17,81,Detector Off,51
+916_Signal Controller_US1,2022-08-08 11:01:17,0,Phase On,2
+916_Signal Controller_US1,2022-08-08 11:01:17,1,Phase Begin Green,2
+916_Signal Controller_US1,2022-08-08 11:01:17,12,Phase Inactive,4
+916_Signal Controller_US1,2022-08-08 11:01:17,11,Phase End Red Clearance,4
+916_Signal Controller_US1,2022-08-08 11:01:17,0,Phase On,6
+916_Signal Controller_US1,2022-08-08 11:01:17,1,Phase Begin Green,6
+916_Signal Controller_US1,2022-08-08 11:01:17,12,Phase Inactive,8
+916_Signal Controller_US1,2022-08-08 11:01:17,11,Phase End Red Clearance,8
+916_Signal Controller_US1,2022-08-08 11:01:17,65,Overlap Off (Inactive With Red Indication),1
+916_Signal Controller_US1,2022-08-08 11:01:17,65,Overlap Off (Inactive With Red Indication),2
+916_Signal Controller_US1,2022-08-08 11:01:17,61,Overlap Begin Green,3
+916_Signal Controller_US1,2022-08-08 11:01:17,44,Phase Call Dropped,6
+916_Signal Controller_US1,2022-08-08 11:01:17,47,Phase Omit Off,4
+916_Signal Controller_US1,2022-08-08 11:01:17,47,Phase Omit Off,8
+916_Signal Controller_US1,2022-08-08 11:01:19,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:01:19,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:01:20,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:01:20,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:20,82,Detector On,5
+916_Signal Controller_US1,2022-08-08 11:01:21,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:22,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:22,82,Detector On,13
+916_Signal Controller_US1,2022-08-08 11:01:22,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:23,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:01:23,81,Detector Off,13
+916_Signal Controller_US1,2022-08-08 11:01:23,82,Detector On,9
+916_Signal Controller_US1,2022-08-08 11:01:23,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:23,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:01:23,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:24,81,Detector Off,9
+916_Signal Controller_US1,2022-08-08 11:01:24,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:24,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:24,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:01:24,82,Detector On,9
+916_Signal Controller_US1,2022-08-08 11:01:24,81,Detector Off,5
+916_Signal Controller_US1,2022-08-08 11:01:24,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:01:25,81,Detector Off,9
+916_Signal Controller_US1,2022-08-08 11:01:25,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:01:25,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:26,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:01:26,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:01:27,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:01:27,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:27,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:01:27,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:01:27,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:01:27,82,Detector On,21
+916_Signal Controller_US1,2022-08-08 11:01:27,2,Phase Check,2
+916_Signal Controller_US1,2022-08-08 11:01:27,3,Phase Min Complete,2
+916_Signal Controller_US1,2022-08-08 11:01:27,2,Phase Check,6
+916_Signal Controller_US1,2022-08-08 11:01:27,3,Phase Min Complete,6
+916_Signal Controller_US1,2022-08-08 11:01:27,43,Phase Call Registered,4
+916_Signal Controller_US1,2022-08-08 11:01:28,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:28,82,Detector On,7
+916_Signal Controller_US1,2022-08-08 11:01:29,81,Detector Off,7
+916_Signal Controller_US1,2022-08-08 11:01:29,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:01:29,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:29,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:30,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:01:30,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:01:30,82,Detector On,13
+916_Signal Controller_US1,2022-08-08 11:01:30,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:01:30,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:30,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:30,81,Detector Off,13
+916_Signal Controller_US1,2022-08-08 11:01:31,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:01:31,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:31,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:31,82,Detector On,25
+916_Signal Controller_US1,2022-08-08 11:01:32,82,Detector On,5
+916_Signal Controller_US1,2022-08-08 11:01:32,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:32,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:01:32,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:01:33,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:33,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:01:33,82,Detector On,9
+916_Signal Controller_US1,2022-08-08 11:01:33,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:01:33,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:01:33,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:01:33,81,Detector Off,25
+916_Signal Controller_US1,2022-08-08 11:01:33,82,Detector On,52
+916_Signal Controller_US1,2022-08-08 11:01:34,81,Detector Off,5
+916_Signal Controller_US1,2022-08-08 11:01:34,82,Detector On,33
+916_Signal Controller_US1,2022-08-08 11:01:34,43,Phase Call Registered,5
+916_Signal Controller_US1,2022-08-08 11:01:34,81,Detector Off,9
+916_Signal Controller_US1,2022-08-08 11:01:34,81,Detector Off,52
+916_Signal Controller_US1,2022-08-08 11:01:34,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:35,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:01:35,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:35,82,Detector On,49
+916_Signal Controller_US1,2022-08-08 11:01:35,82,Detector On,13
+916_Signal Controller_US1,2022-08-08 11:01:35,82,Detector On,35
+916_Signal Controller_US1,2022-08-08 11:01:35,81,Detector Off,49
+916_Signal Controller_US1,2022-08-08 11:01:35,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:36,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:36,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:01:36,81,Detector Off,33
+916_Signal Controller_US1,2022-08-08 11:01:36,44,Phase Call Dropped,5
+916_Signal Controller_US1,2022-08-08 11:01:36,81,Detector Off,13
+916_Signal Controller_US1,2022-08-08 11:01:36,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:37,81,Detector Off,35
+916_Signal Controller_US1,2022-08-08 11:01:37,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:37,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:37,82,Detector On,33
+916_Signal Controller_US1,2022-08-08 11:01:37,43,Phase Call Registered,5
+916_Signal Controller_US1,2022-08-08 11:01:37,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:37,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:38,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:01:39,82,Detector On,59
+916_Signal Controller_US1,2022-08-08 11:01:39,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:39,82,Detector On,35
+916_Signal Controller_US1,2022-08-08 11:01:39,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:39,82,Detector On,6
+916_Signal Controller_US1,2022-08-08 11:01:40,81,Detector Off,33
+916_Signal Controller_US1,2022-08-08 11:01:40,44,Phase Call Dropped,5
+916_Signal Controller_US1,2022-08-08 11:01:40,82,Detector On,10
+916_Signal Controller_US1,2022-08-08 11:01:40,81,Detector Off,35
+916_Signal Controller_US1,2022-08-08 11:01:40,81,Detector Off,6
+916_Signal Controller_US1,2022-08-08 11:01:40,82,Detector On,53
+916_Signal Controller_US1,2022-08-08 11:01:40,81,Detector Off,59
+916_Signal Controller_US1,2022-08-08 11:01:40,43,Phase Call Registered,8
+916_Signal Controller_US1,2022-08-08 11:01:40,81,Detector Off,10
+916_Signal Controller_US1,2022-08-08 11:01:41,82,Detector On,33
+916_Signal Controller_US1,2022-08-08 11:01:41,43,Phase Call Registered,5
+916_Signal Controller_US1,2022-08-08 11:01:42,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:42,82,Detector On,59
+916_Signal Controller_US1,2022-08-08 11:01:42,4,Phase Gap Out,2
+916_Signal Controller_US1,2022-08-08 11:01:43,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:43,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:43,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:43,82,Detector On,35
+916_Signal Controller_US1,2022-08-08 11:01:44,82,Detector On,5
+916_Signal Controller_US1,2022-08-08 11:01:44,81,Detector Off,59
+916_Signal Controller_US1,2022-08-08 11:01:44,81,Detector Off,33
+916_Signal Controller_US1,2022-08-08 11:01:44,44,Phase Call Dropped,5
+916_Signal Controller_US1,2022-08-08 11:01:44,82,Detector On,9
+916_Signal Controller_US1,2022-08-08 11:01:45,81,Detector Off,5
+916_Signal Controller_US1,2022-08-08 11:01:45,81,Detector Off,35
+916_Signal Controller_US1,2022-08-08 11:01:45,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:01:45,81,Detector Off,9
+916_Signal Controller_US1,2022-08-08 11:01:45,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:01:45,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:45,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:46,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:46,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:47,4,Phase Gap Out,2
+916_Signal Controller_US1,2022-08-08 11:01:47,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:47,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:47,82,Detector On,59
+916_Signal Controller_US1,2022-08-08 11:01:47,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:48,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:01:48,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:01:49,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:50,31,Barrier Termination,1
+916_Signal Controller_US1,2022-08-08 11:01:50,7,Phase Green Termination,2
+916_Signal Controller_US1,2022-08-08 11:01:50,8,Phase Begin Yellow Clearance,2
+916_Signal Controller_US1,2022-08-08 11:01:50,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:50,7,Phase Green Termination,6
+916_Signal Controller_US1,2022-08-08 11:01:50,8,Phase Begin Yellow Clearance,6
+916_Signal Controller_US1,2022-08-08 11:01:50,63,Overlap Begin Yellow,3
+916_Signal Controller_US1,2022-08-08 11:01:50,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:50,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:50,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:01:51,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:01:51,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:51,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:52,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:52,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:01:52,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:01:52,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:01:52,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:01:52,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:52,44,Phase Call Dropped,6
+916_Signal Controller_US1,2022-08-08 11:01:52,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:01:54,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:01:54,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:01:54,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:54,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:54,82,Detector On,42
+916_Signal Controller_US1,2022-08-08 11:01:54,9,Phase End Yellow Clearance,2
+916_Signal Controller_US1,2022-08-08 11:01:54,10,Phase Begin Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:01:54,9,Phase End Yellow Clearance,6
+916_Signal Controller_US1,2022-08-08 11:01:54,10,Phase Begin Red Clearance,6
+916_Signal Controller_US1,2022-08-08 11:01:54,64,Overlap Begin Red Clearance,3
+916_Signal Controller_US1,2022-08-08 11:01:54,46,Phase Omit On,2
+916_Signal Controller_US1,2022-08-08 11:01:54,46,Phase Omit On,6
+916_Signal Controller_US1,2022-08-08 11:01:54,81,Detector Off,38
+916_Signal Controller_US1,2022-08-08 11:01:54,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:54,44,Phase Call Dropped,6
+916_Signal Controller_US1,2022-08-08 11:01:55,81,Detector Off,42
+916_Signal Controller_US1,2022-08-08 11:01:55,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:55,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:01:55,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:01:56,82,Detector On,46
+916_Signal Controller_US1,2022-08-08 11:01:56,81,Detector Off,14
+916_Signal Controller_US1,2022-08-08 11:01:56,81,Detector Off,37
+916_Signal Controller_US1,2022-08-08 11:01:56,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:01:56,4,Phase Gap Out,6
+916_Signal Controller_US1,2022-08-08 11:01:56,44,Phase Call Dropped,6
+916_Signal Controller_US1,2022-08-08 11:01:56,81,Detector Off,46
+916_Signal Controller_US1,2022-08-08 11:01:56,81,Detector Off,41
+916_Signal Controller_US1,2022-08-08 11:01:56,12,Phase Inactive,2
+916_Signal Controller_US1,2022-08-08 11:01:56,11,Phase End Red Clearance,2
+916_Signal Controller_US1,2022-08-08 11:01:56,0,Phase On,4
+916_Signal Controller_US1,2022-08-08 11:01:56,1,Phase Begin Green,4
+916_Signal Controller_US1,2022-08-08 11:01:56,12,Phase Inactive,6
+916_Signal Controller_US1,2022-08-08 11:01:56,11,Phase End Red Clearance,6
+916_Signal Controller_US1,2022-08-08 11:01:56,0,Phase On,8
+916_Signal Controller_US1,2022-08-08 11:01:56,1,Phase Begin Green,8
+916_Signal Controller_US1,2022-08-08 11:01:56,61,Overlap Begin Green,1
+916_Signal Controller_US1,2022-08-08 11:01:56,61,Overlap Begin Green,2
+916_Signal Controller_US1,2022-08-08 11:01:56,65,Overlap Off (Inactive With Red Indication),3
+916_Signal Controller_US1,2022-08-08 11:01:56,44,Phase Call Dropped,4
+916_Signal Controller_US1,2022-08-08 11:01:56,44,Phase Call Dropped,8
+916_Signal Controller_US1,2022-08-08 11:01:56,47,Phase Omit Off,2
+916_Signal Controller_US1,2022-08-08 11:01:56,47,Phase Omit Off,6
+916_Signal Controller_US1,2022-08-08 11:01:57,82,Detector On,45
+916_Signal Controller_US1,2022-08-08 11:01:58,81,Detector Off,45
+916_Signal Controller_US1,2022-08-08 11:01:58,82,Detector On,37
+916_Signal Controller_US1,2022-08-08 11:01:58,2,Phase Check,4
+916_Signal Controller_US1,2022-08-08 11:01:58,2,Phase Check,8
+916_Signal Controller_US1,2022-08-08 11:01:58,43,Phase Call Registered,6
+916_Signal Controller_US1,2022-08-08 11:01:59,82,Detector On,38
+916_Signal Controller_US1,2022-08-08 11:02:00,82,Detector On,14
+916_Signal Controller_US1,2022-08-08 11:02:01,82,Detector On,57
+916_Signal Controller_US1,2022-08-08 11:02:01,82,Detector On,25
+916_Signal Controller_US1,2022-08-08 11:02:01,82,Detector On,41
+916_Signal Controller_US1,2022-08-08 11:02:01,3,Phase Min Complete,8
